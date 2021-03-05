@@ -23,7 +23,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="cake.jpg"
+        icon="consult.png"
         id="intro"
       />
       <MiddleBlock
@@ -36,7 +36,7 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="zutaten.jpg"
+        icon="suit.jpg"
         id="about"
       />
       <ContentBlock
@@ -51,7 +51,7 @@ const Home = () => {
         type="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        icon="BW.png"
         id="product"
       />
       <ContactFrom
