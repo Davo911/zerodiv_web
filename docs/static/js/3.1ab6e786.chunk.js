@@ -1,0 +1,2 @@
+(this.webpackJsonpluv=this.webpackJsonpluv||[]).push([[3],{116:function(t,i,s){"use strict";s.r(i);var c=s(1);i.default=function(t){var i=t.src,s=t.width,h=t.height;return Object(c.jsx)("img",{src:"/img/svg/".concat(i),alt:i,with:s,height:h})}}}]);
+//# sourceMappingURL=3.1ab6e786.chunk.js.map
