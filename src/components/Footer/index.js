@@ -97,7 +97,7 @@ const Footer = ({ t }) => {
                     id="select-lang"
                   >
                     <option value="en">English</option>
-                    <option value="de">Deutsch</option>
+                    <option value="es">Español</option>
                   </S.LangSelect>
                 </S.Select>
               </Col>
@@ -124,7 +124,11 @@ const Footer = ({ t }) => {
               </S.NavLink>
               <S.FooterContainer>
                 <SocialLink
-                  href="https://twitter.com/davo911"
+                  href="https://github.com/"
+                  src="github.svg"
+                />
+                <SocialLink
+                  href="https://twitter.com/"
                   src="twitter.svg"
                 />
                 <SocialLink
@@ -132,8 +136,12 @@ const Footer = ({ t }) => {
                   src="linkedin.svg"
                 />
                 <SocialLink
-                  href="https://github.com/"
+                  href="https://www.instagram.com/highigherhai/"
                   src="instagram.svg"
+                />
+                <SocialLink
+                  href="https://medium.com/"
+                  src="medium.svg"
                 />
               </S.FooterContainer>
             </Row>
