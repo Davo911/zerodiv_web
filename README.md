@@ -2,7 +2,7 @@
  Website for ZeroDiv Consulting
 
  Written with React.js
- 
+
  Billo-Build: [zerodiv.tech](http://zerodiv.tech/)
 
 # Schritte zum bearbeiten:
@@ -31,7 +31,7 @@
  ```
 
 # Wo ist was?
-Bilder befinden sich in "public\img\svg\"
-Texte befinden sich in Form von JSONs in "src\content\"
-Die Eigentliche Index Datei befindet sich in "src\pages\Home\index.js", von dort aus kann man sich weiter hangeln.
-Header in "../components/Header", Footer in "../components/Footer"
+- Bilder befinden sich in "public\img\svg\"
+- Texte befinden sich in Form von JSONs in "src\content\"
+- Die Eigentliche Index Datei befindet sich in "src\pages\Home\index.js", von dort aus kann man sich weiter hangeln.
+- Header in "../components/Header", Footer in "../components/Footer"
