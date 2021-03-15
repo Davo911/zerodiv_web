@@ -31,7 +31,7 @@
  ```
 
 # Wo ist was?
-- Bilder befinden sich in "public\img\svg\"
-- Texte befinden sich in Form von JSONs in "src\content\"
-- Die Eigentliche Index Datei befindet sich in "src\pages\Home\index.js", von dort aus kann man sich weiter hangeln.
-- Header in "../components/Header", Footer in "../components/Footer"
+- __Bilder__ befinden sich in _"public\img\svg\"_
+- __Texte__ befinden sich in Form von JSONs in _"src\content\"_
+- Die Eigentliche __Index-Datei__ befindet sich in _"src\pages\Home\index.js"_, von dort aus kann man sich weiter hangeln.
+- __Header__ in _"../components/Header"_, __Footer__ in _"../components/Footer"_
