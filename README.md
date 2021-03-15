@@ -1,6 +1,8 @@
 # zerodiv_web
  Website for ZeroDiv Consulting
+
  Written with React.js
+ 
  Billo-Build: [zerodiv.tech](http://zerodiv.tech/)
 
 # Schritte zum bearbeiten:
